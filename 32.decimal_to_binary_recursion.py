@@ -5,5 +5,5 @@ def convert_to_binary(n):
         convert_to_binary(n//2)
     print(n%2,end="")
 
-num=int(input("Enter the number "))
+num=int(input("Enter the number(decimal) "))
 convert_to_binary(num)
