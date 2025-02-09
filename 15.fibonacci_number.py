@@ -5,11 +5,8 @@
 a=0
 b=1
 num=int(input("Enter the number "))
-if num==0:
+if num==1:
     print(a)
-elif num==1:
-    print(a)
-    print(b)
 else:
     print(a)
     print(b)
